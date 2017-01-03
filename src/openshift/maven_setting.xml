@@ -1,5 +1,5 @@
 <settings>
     <localrepository>
-        /var/lib/openshift/586c0dec89f5cf777100012b/app-deployments/m2/repository
+        $OPENSHIFT_DATA_DIR/app-deployments/m2/repository
     </localrepository>
 </settings>
